@@ -1,0 +1,9 @@
+# Credenciales FTP (fuera del repo, en %USERPROFILE%\.keysciti_ftp.env)
+*.env
+.env
+
+# Datos de prueba
+Facturas_ejemplos/
+
+# Configuración real (solo el ejemplo se versiona)
+php/config.php
